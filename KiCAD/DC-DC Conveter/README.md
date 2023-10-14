@@ -51,6 +51,9 @@ To use this circuit to power a 1W LED from your car battery, follow these steps:
 
 4. **Adjustment (Optional)**: Depending on your specific requirements, you may need to fine-tune the circuit. Refer to the datasheet for the MC34063 IC for more information.
 
+### if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/techs4shubq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ## Authors
 
 - [@Shubham Singh](https://github.com/Shubham722-227)
