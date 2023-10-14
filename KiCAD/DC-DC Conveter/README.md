@@ -30,14 +30,14 @@ The MC34063 device integrates multiple functions into an 8-pin dual in-line pack
 - Car battery
 ## Schematic
 
-![Schematic](/img/Schematic.png)
+![Schematic](img/Schematic.png)
 
 ## PCB Layout
 
-![PCB Layout](/img/Sketch.png)
+![PCB Layout](img/Sketch.png)
 
 ## 3D Model
-![3D Model](/img/3D.jpg)
+![3D Model](img/3D.jpg)
 
 ## Usage
 
