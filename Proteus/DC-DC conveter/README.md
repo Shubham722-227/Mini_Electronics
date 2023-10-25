@@ -30,7 +30,7 @@ The MC34063 device integrates multiple functions into an 8-pin dual in-line pack
 - Car battery
 ## Schematic
 
-![Schematic](/DC-DC conveter.png)
+![Schematic](/img/DC-DC conveter.png)
 
 ## Simulation
 
