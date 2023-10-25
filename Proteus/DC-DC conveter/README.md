@@ -30,11 +30,11 @@ The MC34063 device integrates multiple functions into an 8-pin dual in-line pack
 - Car battery
 ## Schematic
 
-![Schematic](/img/DC.png)
+![Schematic](img/DC.png)
 
 ## Simulation
 
-![Simulation](/img/Schematic.mp4)
+![PCB Layout](img/Simulation.mp4)
 
 
 ## Usage
@@ -48,6 +48,9 @@ To use this circuit to power a 1W LED from your car battery, follow these steps:
 3. **Power On**: Connect the circuit to your car battery and observe the LED's illumination. The buck converter will efficiently regulate the voltage to power the LED.
 
 4. **Adjustment (Optional)**: Depending on your specific requirements, you may need to fine-tune the circuit. Refer to the datasheet for the MC34063 IC for more information.
+
+### if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/techs4shubq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Authors
 
