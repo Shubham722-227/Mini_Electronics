@@ -34,7 +34,7 @@ The MC34063 device integrates multiple functions into an 8-pin dual in-line pack
 
 ## Simulation
 
-![PCB Layout](img/Simulation.mp4)
+![Simulation](img/Simulation.mp4)
 
 
 ## Usage
